@@ -1,12 +1,46 @@
-site_name: Visualization and Communication for Researchers
-#to deploy: mkdocs gh-deploy
+site_name: Seeing is...
+repo_url: https://github.com/elissasoroj/Understory
+site_author: Elissa Sorojsrisom
+#to deploy: mkdocs gh-deploy --force
+#to see dummy site: mkdocs serve
+
+# Copyright
+copyright: Copyright &copy; 2022 Elissa Sorojsrisom
+
+nav:
+  - Welcome: index.md
+  - About: index.md
+  - How to Use: index.md
+  - Glossary: index.md
+  - Contents:
+    - Visual Literacy & Visual Thinking: vlvt.md
+    - Visual Communication in Science: science.md
+    - Visuals for Teaching: teaching.md
+    - Vector Graphic Crash Course: crashcourse-intro.md
+      - Intro to Vectors and File Types: filetypes.md
+      - Introduction to Familiar Tools: presentations.md
+      - Learning the Pen Tool: pentool-intro.md
+        - Pen Tool Thinking: thinking.md
+        - Pen Tool Exercises: exercises.md
+        - Walkthrough: walkthrough.md
+    - Self-Guided Vector Graphic Workshop: workshop-intro.md
+      - 1. Purpose: purpose.md
+      - 2. Concept: concept.md
+      - 3. Sketch: sketch.md
+      - 4. Reflect: reflect.md
+      - 5. Adjust: adjust.md
+      - 6. Reference: reference.md
+      - 7. Create: create.md
+      - 8. Evaluate: evaluate.md
+      - 9. Review: review.md
+  - Gallery: gallery.md
+
+edit_uri: ""
 
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: red
-      accent: amber
+    - scheme: seeingis-light
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -40,64 +74,47 @@ theme:
     - navigation.tabs.sticky
     - navigation.expand
 
-nav:
-  - Welcome: index.md
-  - Syllabus:
-    - Intro: syllabus.md
-    - Course Structure & Schedule: structure.md
-    - Expectations: expectations.md
-    - Evaluation/Grading: grading.md
-    - Participation: participation.md
-    - Presentations: presentations.md
-    - Final Portfolio: final.md
-  - Assignments: 
-    - Read Me: assignments.md
-    - Assignment 1: 1precourse.md
-  - Resources:
-    - Software: software.md
-  - Tutorials:
-      - Overview: tutorials.md
-      - Affinity Designer: tutorials.md
-      - Apple Keynote: tutorials.md
-  - People: people.md
-  - Gallery: gallery.md
 
+#Python Markdown Extentions
 markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - toc:
       toc_depth: 4
   - markdown.extensions.codehilite:
       guess_lang: false      
   - admonition
   - footnotes
-  - codehilite
   - tables
   - attr_list
-  - md_in_html
-  # - extra
-  - pymdownx.superfences:
-      #custom_fences:
-      #- name: mermaid
-      #  class: mermaid
-      #  format: !!python/name:pymdownx.superfences.fence_div_format ''
-  - pymdownx.tabbed      
+  - md_in_html  
   - pymdownx.details
   - pymdownx.critic
   - pymdownx.caret
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.tilde  
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
+#Javascript Extentions
 extra_javascript:
-  - js/custom.js 
+  # - js/custom.js 
   # - https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js
   # - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.min.js
   # - js/termynal.js
   # - js/mermaid.js
 
 extra_css:
-  # - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.neutral.css
-  # - css/termynal.css
-  # - css/custom.css
+  - stylesheets/extra.css
