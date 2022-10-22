@@ -17,8 +17,8 @@ nav:
     - Visual Communication in Science: science.md
     - Visuals for Teaching: teaching.md
     - Vector Graphic Crash Course: crashcourse-intro.md
-      - Intro to Vectors and File Types: filetypes.md
-      - Introduction to Familiar Tools: presentations.md
+      - Intro to Vectors and File Types: vectors.md
+      - Amuse-Bouche: amuse.md
       - Learning the Pen Tool: pentool-intro.md
         - Pen Tool Thinking: thinking.md
         - Pen Tool Exercises: exercises.md
