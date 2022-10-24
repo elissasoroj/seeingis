@@ -1,4 +1,4 @@
-# Amuse-bouche
+# **Amuse-bouche**: Shape Tools
 
 One of the most accessible ways to create vector figures is to simply use the different `shape tools`. This is similar to using the shape tools in Powerpoint of Keynote to create graphics, but Illustrator has extra features that extend the capabilities beyond what you can achieve in a presentation application. 
 
@@ -7,11 +7,12 @@ One of the most accessible ways to create vector figures is to simply use the di
 ### Simple Shapes
 When Illustrator opens, the shape will default to the rectangle tool.
 
-[]
+![toolbar](assets/toolbar.png#med-large)
 
 Click and drag on the canvas to create a rectangle. 
 
 [vid]
+![toolbar](assets/toolbar.png#med-large)
 
 If you hold the **Shift** key while dragging, the shape will default to a perfect square
 
@@ -33,7 +34,7 @@ Similar to the rectangle tool, if you hold Shift while clicking and dragging you
 
 To select one shape or the other you will need to use the selection tool (black arrow icon, or type **v**). Click on a shape to select it. 
 
-When you select a shape, you might notice little square show up on the outline. These are called anchor points - you can use them to re-size your shape. 
+When you select a shape, you might notice little square show up on the outline. These are called **anchor points** - you can use them to re-size your shape. 
 
 [vid]
 
@@ -41,7 +42,7 @@ To rotate your objects, you will need to switch back to the selection tool (v). 
 
 [vid]
 
-!! tip "Step 3"
+!!! tip "Step 3"
 
 	Try rotating and re-sizing your shapes
 
@@ -61,19 +62,82 @@ You may notice that holding down shift no longer has the same effect - instead i
 	Make a triangle and a heptagon. Force the baseline to be horizontal by using the **Shift** key while drawing one of your shapes. 
 
 ### Rounded Shapes
-The last shape tool we will cover is the rounded rectangle tool. 
+The last shape tool we will cover is the rounded rectangle tool [icon]. 
+
+!!! tip "Step 5"
+
+	Select the rounded rectangle tool and make a rounded rectangle object by clicking and dragging.
+
+When you have a rounded rectangle selected, you will see a new set of points inside the shape. Clicking and dragging these points will alter the "roundedness" of your shape. 
+
+[vid]
+
 
 ## Colors
-Let's add some color!
+All this black and white is getting old. Let's add some color!
 
-The 
+### Fill
+The permanent fill and stroke menu on the left below your tools is incredibly convenient once you get the hang of it. 
 
+!!! tip "Step 6"
+
+	Double-click the big white square (this is the **Fill**) to open the color picker. Pick your favorite color and click **OK**. 
+
+If none of your shapes changed color, it's because they weren't selected before you changed the fill color. Try selecting a shape and trying again. 
+
+[vid]
+
+This is one annoying thing about Illustrator - you need to select an object in order to keep any style changes. If you choose colors or stroke settings without an object selected, you will have to do it all over again.
+
+Clicking on the white box (Stroke) or the black frame (Fill) will switch the fill or the stroke color to the 'foregound'. 
+
+If you look below the Stroke and Fill boxes, you will see smaller boxes. The one with the red slash through it will automatically make your fill transparent if you click it. 
+
+!!! tip "Step 7"
+
+	Make sure your Fill color is the foreground color. Change one of your shapes to have a transparent fill. 
+
+### Stroke
+Now, let's change the stroke color. 
+
+!!! tip "Step 8"
+
+	Double-click the black square with an open middle (this is the **Stroke Color**) to open the color picker. Pick a different color than the fill and click **OK**. 
+
+[vid]
+
+Your shape should now have a fill and a stroke color. You can swap these colors by clicking the little arrow between them. 
+
+[vid]
+
+You can also change the width of the stroke using the toolbar at the top or on the side and adjusting the **Weight**.
+
+[vid] 
+
+There are many other things you can do to the stroke menu, such as adding arrow heads and making dashed lines. 
+
+[vid]
+
+If you don't want your shapes to have an outline, then set the Stroke color to "transparent" using the same method we used for the fill in **Step 7**. 
+
+[vid]
 
 ## Pathfinder
-Click and hold the square icon to see the other shape options you have. Click the oval tool. 
+Finally, let's see some of the advanced features in Illustrator that you can't easily achieve in a presentation application. 
 
-Similar to the rectangle tool, if you hold Shift while clicking and dragging you will create a perfect 
+To set up the next demonstration, let's clear the canvas and make some new shapes. 
 
-!!! tip "Step 3"
+!!! tip "Step 10"
 
-	Go ahead and create a large square or rectangle on your canvas.
+	a. Clear the canvas
+	b. Make a large rectangular shape with a fill color
+	c. Make a few smaller shapes, such as circles and triangles and place them in front of the square
+
+To select multiple objects, hold **Shift** as you click on each one. 
+
+
+
+
+
+
+

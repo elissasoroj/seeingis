@@ -9,31 +9,37 @@ copyright: Copyright &copy; 2022 Elissa Sorojsrisom
 
 nav:
   - Welcome: index.md
-  - About: index.md
-  - How to Use: index.md
-  - Glossary: index.md
-  - Contents:
+  - About: 
+    - index.md
+    - How to Use: index.md
+  - Visual Literacy:
     - Visual Literacy & Visual Thinking: vlvt.md
     - Visual Communication in Science: science.md
     - Visuals for Teaching: teaching.md
-    - Vector Graphic Crash Course: course/intro.md
-      - Intro to Vectors & File Types: vectors.md
-      - Amuse-Bouche: course/amuse.md
-      - Learning the Pen Tool: pentool-intro.md
-        - Pen Tool Thinking: thinking.md
-        - Pen Tool Exercises: exercises.md
-        - Walkthrough: walkthrough.md
-    - Self-Guided Vector Graphic Workshop: workshop-intro.md
-      - 1. Purpose: purpose.md
-      - 2. Concept: concept.md
-      - 3. Sketch: sketch.md
-      - 4. Reflect: reflect.md
-      - 5. Adjust: adjust.md
-      - 6. Reference: reference.md
-      - 7. Create: create.md
-      - 8. Evaluate: evaluate.md
-      - 9. Review: review.md
+  - Crash Course: 
+    - course/intro.md
+    - Vectors & File Types: vectors.md
+    - Amuse-Bouche:
+      - Shape Tools: course/amuse.md
+      - Project: course/shape-proj.md
+    - Main Course:
+      - Pen Tool: pentool-intro.md
+      - Pen Tool Thinking: thinking.md
+      - Pen Tool Exercises: exercises.md
+      - Walkthrough: walkthrough.md
+  - Self-Guided Workshop: 
+    - workshop-intro.md
+    - 1. Purpose: purpose.md
+    - 2. Concept: concept.md
+    - 3. Sketch: sketch.md
+    - 4. Reflect: reflect.md
+    - 5. Adjust: adjust.md
+    - 6. Reference: reference.md
+    - 7. Create: create.md
+    - 8. Evaluate: evaluate.md
+    - 9. Review: review.md
   - Gallery: gallery.md
+  - Glossary: index.md
 
 edit_uri: ""
 
@@ -58,7 +64,7 @@ theme:
       note: octicons/tag-16
       abstract: octicons/checklist-16
       info: octicons/info-16
-      tip: octicons/squirrel-16
+      tip: octicons/cpu-16
       success: octicons/check-16
       question: octicons/unverified-16
       warning: octicons/alert-16
@@ -73,6 +79,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.expand
+    - navigation.indexes
 
 
 #Python Markdown Extentions

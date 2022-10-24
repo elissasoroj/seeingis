@@ -50,7 +50,7 @@ Under **Raster Effects** you can choose the ppi, and **300 ppi** is one of the s
 #### Canvas Presets
 As you can see, there are also standard presets that Illustrator presents to you, many of which should be familiar to you. 
 
-[video]
+![Essential Classic Workspace](assets/new-doc.gif)
 
 You can choose any of these presets, and re-size the canvas down once it's open - but we won't cover that here.
 
@@ -65,13 +65,13 @@ For this tutorial, let's just keep it simple and make a small 800x800px canvas. 
 
 Your canvas will open as a white square on a dark grey background. Anything in front of the square will be part of your image, and everything on the grey will be hidden. This turns out to be an incredibly useful feature when you are making a new image. 
 
-Once you have created your canvas, a new workspace will open. Illustrator automatically opens in the "Essentials" workspace, which has a limited set of tools and a flexible menu system to keep your workspace clean. You may find that this is your preferred workspace once you start using Illustrator regularly, but for the purposes of this little we are going to switch to "Classic Essentials", which shows you all the possible tools and menus. Click on the [] symbol in the upper right to change the workspace to Classic Essentials.
+Once you have created your canvas, a new workspace will open. Illustrator automatically opens in the "Essentials" workspace, which has a limited set of tools and a flexible menu system to keep your workspace clean. You may find that this is your preferred workspace once you start using Illustrator regularly, but for the purposes of this little we are going to switch to "Classic Essentials", which shows you all the possible tools and menus. Click on the :ai-workspace-grey: symbol in the upper right to change the workspace to Classic Essentials.
 
-[]
+![Change Workspace](assets/change-workspace.png)
 
 Now, your workspace should look like this: 
 
-[]
+![Essential Classic Workspace](assets/classic.png)
 
 The tools are on the left and the menus are on the right. The main color picker menu (Illustrator calls this "Fill & Stroke") is on the left below the tools. We will be using this menu often. 
 
