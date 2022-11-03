@@ -7,16 +7,18 @@ One of the most accessible ways to create vector figures is to simply use the di
 ### Simple Shapes
 When Illustrator opens, the shape will default to the rectangle tool.
 
-![toolbar](assets/toolbar.png#med-large)
+![toolbar](assets/toolbar.png#large)
+<br>
 
 Click and drag on the canvas to create a rectangle. 
 
-[vid]
-![toolbar](assets/toolbar.png#med-large)
+![rectangle](assets/rectangle.gif#large)
+<br>
 
 If you hold the **Shift** key while dragging, the shape will default to a perfect square
 
-[vid]
+![square](assets/square.gif#large)
+<br>
 
 !!! tip "Step 1"
 
@@ -24,9 +26,13 @@ If you hold the **Shift** key while dragging, the shape will default to a perfec
 
 Click and hold the square icon to see the other shape options you have. Click the Ellipse tool. 
 
+![shapes](assets/shapes.png#large)
+<br>
+
 Similar to the rectangle tool, if you hold Shift while clicking and dragging you will create a perfect circle. 
 
-[vid]
+![ellipse](assets/ellipse.gif#large)
+<br>
 
 !!! tip "Step 2"
 
@@ -40,7 +46,8 @@ When you select a shape, you might notice little square show up on the outline. 
 
 To rotate your objects, you will need to switch back to the selection tool (v). Hover near a corner and you will see your cursor turn into an arrow. Click and drag to rotate the object. 
 
-[vid]
+![rotate](assets/rotate.gif#large)
+<br>
 
 !!! tip "Step 3"
 
@@ -48,6 +55,9 @@ To rotate your objects, you will need to switch back to the selection tool (v). 
 
 
 If you're feeling a little crowded on your canvas, you can clear it with the selection tool. Click and drag to select objects and hit the **delete** button on your keyboard to get rid of them. 
+
+![delete](assets/delete.gif#large)
+<br>
 
 Alternatively, if you want to save them for later, you can drag them off the canvas into the grey space. 
 
@@ -70,8 +80,8 @@ The last shape tool we will cover is the rounded rectangle tool [icon].
 
 When you have a rounded rectangle selected, you will see a new set of points inside the shape. Clicking and dragging these points will alter the "roundedness" of your shape. 
 
-[vid]
-
+![rounded rectangle](assets/rounded-corners.gif#large)
+<br>
 
 ## Colors
 All this black and white is getting old. Let's add some color!
@@ -85,13 +95,17 @@ The permanent fill and stroke menu on the left below your tools is incredibly co
 
 If none of your shapes changed color, it's because they weren't selected before you changed the fill color. Try selecting a shape and trying again. 
 
-[vid]
+![color](assets/color.gif#large)
+<br>
 
 This is one annoying thing about Illustrator - you need to select an object in order to keep any style changes. If you choose colors or stroke settings without an object selected, you will have to do it all over again.
 
 Clicking on the white box (Stroke) or the black frame (Fill) will switch the fill or the stroke color to the 'foregound'. 
 
 If you look below the Stroke and Fill boxes, you will see smaller boxes. The one with the red slash through it will automatically make your fill transparent if you click it. 
+
+![transparent](assets/transparent.gif#large)
+<br>
 
 !!! tip "Step 7"
 
@@ -104,15 +118,18 @@ Now, let's change the stroke color.
 
 	Double-click the black square with an open middle (this is the **Stroke Color**) to open the color picker. Pick a different color than the fill and click **OK**. 
 
-[vid]
+![line-color](assets/line-color.gif#large)
+<br>
 
 Your shape should now have a fill and a stroke color. You can swap these colors by clicking the little arrow between them. 
 
-[vid]
+![color switch](assets/color-switch.gif#large)
+<br>
 
 You can also change the width of the stroke using the toolbar at the top or on the side and adjusting the **Weight**.
 
-[vid] 
+![line weight](assets/line-weight.gif#large)
+<br>
 
 There are many other things you can do to the stroke menu, such as adding arrow heads and making dashed lines. 
 
@@ -127,17 +144,21 @@ Finally, let's see some of the advanced features in Illustrator that you can't e
 
 To set up the next demonstration, let's clear the canvas and make some new shapes. 
 
+!!! tip "Step 9"
+
+	a. Clear the canvas
+	b. Make two shapes of any kind and give them both a fill color
+	c. Place the shapes so that they are overlapping in some way
+
+To select multiple objects, hold **Shift** as you click on each one. 
+
+Once they are selected, open the **Pathfinder** menu (symbol)
+
 !!! tip "Step 10"
 
 	a. Clear the canvas
 	b. Make a large rectangular shape with a fill color
 	c. Make a few smaller shapes, such as circles and triangles and place them in front of the square
-
-To select multiple objects, hold **Shift** as you click on each one. 
-
-
-
-
 
 
 
