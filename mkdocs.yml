@@ -1,5 +1,5 @@
 site_name: Seeing is...
-repo_url: https://github.com/elissasoroj/Understory
+repo_url: https://github.com/elissasoroj/seeingis
 site_author: Elissa Sorojsrisom
 #to deploy: mkdocs gh-deploy --force
 #to see dummy site: mkdocs serve
@@ -10,12 +10,13 @@ copyright: Copyright &copy; 2022 Elissa Sorojsrisom
 nav:
   - Welcome: index.md
   - About: 
-    - index.md
-    - How to Use: index.md
+    - about.md
+    #- index.md
+    #- How to Use: index.md
   - Visual Literacy:
     - Visual Literacy & Visual Thinking: vlvt.md
-    - Visual Communication in Science: science.md
-    - Visuals for Teaching: teaching.md
+    #- Visual Communication in Science: science.md
+    #- Visuals for Teaching: teaching.md
   - Crash Course: 
     - course/intro.md
     - Vectors & File Types: vectors.md
@@ -23,23 +24,23 @@ nav:
       - Shape Tools: course/amuse.md
       - Project: course/shape-proj.md
     - Main Course:
-      - Pen Tool: pentool-intro.md
-      - Pen Tool Thinking: thinking.md
-      - Pen Tool Exercises: exercises.md
-      - Walkthrough: walkthrough.md
+      - Pen Tool: course/main.md
+      #- Pen Tool Thinking: thinking.md
+      #- Pen Tool Exercises: exercises.md
+      #- Walkthrough: walkthrough.md
   - Self-Guided Workshop: 
-    - workshop-intro.md
-    - 1. Purpose: purpose.md
-    - 2. Concept: concept.md
-    - 3. Sketch: sketch.md
-    - 4. Reflect: reflect.md
-    - 5. Adjust: adjust.md
-    - 6. Reference: reference.md
-    - 7. Create: create.md
-    - 8. Evaluate: evaluate.md
-    - 9. Review: review.md
-  - Gallery: gallery.md
-  - Glossary: index.md
+    - workshop.md
+    - 1. Purpose: workshop/coming-soon.md #purpose.md
+    - 2. Concept: workshop/coming-soon.md #concept.md
+    - 3. Sketch: workshop/coming-soon.md #sketch.md
+    - 4. Reflect: workshop/coming-soon.md #reflect.md
+    - 5. Adjust: workshop/coming-soon.md #adjust.md
+    - 6. Reference: workshop/coming-soon.md #reference.md
+    - 7. Create: workshop/coming-soon.md #create.md
+    - 8. Evaluate: workshop/coming-soon.md #evaluate.md
+    - 9. Review: workshop/coming-soon.md #review.md
+  #- Gallery: gallery.md
+  #- Glossary: index.md
 
 edit_uri: ""
 
@@ -81,6 +82,27 @@ theme:
     - navigation.expand
     - navigation.indexes
 
+#extra - Google Analytics
+extra:
+  analytics:
+    provider: google
+    property: G-VPWFQJYN0F
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: octicons/thumbsup-16
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback! If you have any additional suggestions
+            please consider filling out 
+            our <a href="https://forms.gle/Y8xi6ga5rKcGtzEg9">feedback form</a>.
+        - icon: octicons/thumbsdown-16
+          name: This page could be improved
+          data: 0
+          note: >- 
+            Thanks for your feedback! Help us improve this page by
+            using our <a href="https://forms.gle/Y8xi6ga5rKcGtzEg9">feedback form</a>.
 
 #Python Markdown Extentions
 markdown_extensions:
@@ -117,6 +139,7 @@ markdown_extensions:
 
 #Javascript Extentions
 extra_javascript:
+  - javascripts/feedback.js
   # - js/custom.js 
   # - https://unpkg.com/mermaid@8.9.2/dist/mermaid.min.js
   # - https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.0.9/mermaid.min.js
