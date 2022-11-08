@@ -19,7 +19,7 @@ nav:
     #- Visuals for Teaching: teaching.md
   - Crash Course: 
     - course/intro.md
-    - Vectors & File Types: vectors.md
+    #- Vectors & File Types: vectors.md
     - Amuse-Bouche:
       - Shape Tools: course/amuse.md
       - Project: course/shape-proj.md

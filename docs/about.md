@@ -12,6 +12,6 @@ Additionally, 65% of students are considered 'visual learners', which suggests t
 This resource seeks to help instructors improve their own visual literacy by providing a short, accessible crash course on creating vector graphics using [Adobe Illustrator](https://www.adobe.com/products/illustrator.html). Although the tutorial is specific to Illustrator, the underlying concepts can easily be applied to other vector graphics programs, such as [Inkscape](https://inkscape.org). 
 
 ## Under Active Development
-This resource is under active development, with plans to add additional content. If you have any feedback you would like to provide, please use the feedback form. 
+This resource is under active development, with plans to add additional content. If you have any feedback you would like to provide, please use the [feedback form](https://forms.gle/Y8xi6ga5rKcGtzEg9). 
 
 *If you are an LTF here to 'observe' the resource, you can access the feedback form [here](https://forms.gle/QigRLCvHCtTaWzR19).*

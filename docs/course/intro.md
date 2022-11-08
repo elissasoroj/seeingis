@@ -77,6 +77,6 @@ The tools are on the left and the menus are on the right. The main color picker 
 
 The only tools and menus we will use are highlighted in the image below. Once you're familiar with the icons, you're all set to move on to the next section!
 
-[]
+![Tools](assets/classic-annotated.png)
 
 

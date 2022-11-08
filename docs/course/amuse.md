@@ -7,9 +7,6 @@ One of the most accessible ways to create vector figures is to simply use the di
 ### Simple Shapes
 When Illustrator opens, the shape will default to the rectangle tool.
 
-![toolbar](assets/toolbar.png#large)
-<br>
-
 Click and drag on the canvas to create a rectangle. 
 
 ![rectangle](assets/rectangle.gif#large)
@@ -131,9 +128,10 @@ You can also change the width of the stroke using the toolbar at the top or on t
 ![line weight](assets/line-weight.gif#large)
 <br>
 
-There are many other things you can do to the stroke menu, such as adding arrow heads and making dashed lines. 
+There are many other things you can do to the stroke menu, such as adding arrow heads and making dashed lines (note that the 'line' tool is actually a separate tool on the toolbar, located to the upper right of the shapes tool)
 
-[vid]
+![stroke](assets/stroke.gif#large)
+<br>
 
 If you don't want your shapes to have an outline, then set the Stroke color to "transparent" using the same method we used for the fill in **Step 7**. 
 
@@ -148,7 +146,9 @@ To set up the next demonstration, let's clear the canvas and make some new shape
 !!! tip "Step 9"
 
 	a. Clear the canvas
+
 	b. Make two shapes of any kind and give them both a fill color
+	
 	c. Place the shapes so that they are overlapping in some way
 
 To select multiple objects, click and drag with the arrow tool to select multiple objects, or hold **Shift** as you click on each shape
@@ -171,7 +171,9 @@ Let's try another pathfinder option
 !!! tip "Step 12"
 
 	a. Clear the canvas
+
 	b. Make a large rectangular shape with a fill color
+
 	c. Make a few smaller shapes, such as circles and triangles and place them in front of the square
 
 
@@ -186,6 +188,7 @@ Let's try another pathfinder option
 !!! tip "Step 14"
 
 	a. Select all the smaller shapes by holding shift while you click each of them
+
 	b. Right click and choose "Group"
 
 ![intersect](assets/intersect.gif#large)
