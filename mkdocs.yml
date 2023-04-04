@@ -21,14 +21,15 @@ nav:
     - course/intro.md
     #- Vectors & File Types: vectors.md
     - Amuse-Bouche:
-      - Shape Tools: course/amuse.md
+      - Shape Tools: course/shape.md
+      - Pathfinder: course/pathfinder.md
       - Project: course/shape-proj.md
     - Main Course:
       - Pen Tool: course/main.md
       #- Pen Tool Thinking: thinking.md
       #- Pen Tool Exercises: exercises.md
       #- Walkthrough: walkthrough.md
-  - Self-Guided Workshop: 
+  - Workshop: Art of the Science Graphic: 
     - workshop.md
     - 1. Purpose: workshop/coming-soon.md #purpose.md
     - 2. Concept: workshop/coming-soon.md #concept.md
