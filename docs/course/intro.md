@@ -5,12 +5,12 @@ The goal of this course is to teach you the bare minimum you need to make beauti
 This course will cover...
 
 - 3 tools:
-	- Shape Tool
+	- [Shape Tool](https://elissasoroj.github.io/seeingis/shape/)
 	- Pen Tool
 	- Direct Selection Tool
 - 2 menus:
 	- Fill & Stroke
-	- Pathfinder
+	- [Pathfinder](https://elissasoroj.github.io/seeingis/pathfinder/)
 
 And that's it! 
 
@@ -61,7 +61,7 @@ If you make your own custom canvas, Illustrator will remember it and present it 
 For this tutorial, let's just keep it simple and make a small 800x800px canvas. Set the **Raster Effects** to **300dpi** and click **Create**. 
 
 
-### Workspace
+### Intro to the Illustrator Workspace
 
 Your canvas will open as a white square on a dark grey background. Anything in front of the square will be part of your image, and everything on the grey will be hidden. This turns out to be an incredibly useful feature when you are making a new image. 
 

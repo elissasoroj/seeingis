@@ -14,7 +14,6 @@ hide:
 ...understanding...<br><br>
 
 <b>Visual Literacy for Teaching & Learning</b><br>
-*aka: finally learn how to use Adobe Illustrator*
  </h2></center>
 
 
