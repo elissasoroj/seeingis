@@ -18,7 +18,8 @@ nav:
     #- Visual Communication in Science: science.md
     #- Visuals for Teaching: teaching.md
   - Crash Course: 
-    - course/intro.md
+    - What is a vector?: course/vector-intro.md
+    - Course Intro: course/intro.md
     #- Vectors & File Types: vectors.md
     - Amuse-Bouche:
       - Shape Tools: course/shape.md
