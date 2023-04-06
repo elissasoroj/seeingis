@@ -2,10 +2,6 @@
 hide:
   - feedback
 ---
-??? tip "LTF Observation"
-
-    If you are an LTF here to 'observe' the resource, you can access the feedback form <a href="https://forms.gle/QigRLCvHCtTaWzR19" target="_blank">here</a>.
-
 <center><h1>Seeing Is...</h1></center>
 
 <center><h2>...thinking...<br>

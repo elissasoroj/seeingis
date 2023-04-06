@@ -33,13 +33,14 @@ nav:
     - workshop.md
     - 1. Purpose: workshop/coming-soon.md #purpose.md
     - 2. Concept: workshop/coming-soon.md #concept.md
-    - 3. Sketch: workshop/coming-soon.md #sketch.md
-    - 4. Reflect: workshop/coming-soon.md #reflect.md
-    - 5. Adjust: workshop/coming-soon.md #adjust.md
-    - 6. Reference: workshop/coming-soon.md #reference.md
+    - 3. Brainstorm: workshop/coming-soon.md #concept.md
+    - 4. Sketch: workshop/coming-soon.md #sketch.md
+    - 5. Refine: workshop/coming-soon.md #sketch.md
+    - 6. Reflect: workshop/coming-soon.md #reflect.md
     - 7. Create: workshop/coming-soon.md #create.md
     - 8. Evaluate: workshop/coming-soon.md #evaluate.md
     - 9. Review: workshop/coming-soon.md #review.md
+  - Outside Resources: workshop/resources.md 
   #- Gallery: gallery.md
   #- Glossary: index.md
 
@@ -89,7 +90,7 @@ extra:
     provider: google
     property: G-VPWFQJYN0F
     feedback:
-      title: Was this page helpful?
+      title: Was this content useful?
       ratings:
         - icon: octicons/thumbsup-16
           name: This page was helpful
